@@ -5,7 +5,7 @@ Learning today leading tomorrow.
 ## Team Member 1- Parvesh Thakur
 <img src="images/WhatsApp Image 2023-10-01 at 17.18.26_d0eb082b.jpg">
 
-**Hobbies**-cricekt,cooking ,playing online games.
+**Hobbies**-cricket,cooking ,playing online games.
 
 
 **Country**- India
