@@ -24,3 +24,27 @@ Learning today leading tomorrow.
 
 
 **Key Values**-Integrity,teamwork and collaboration,quality and adaptability.
+
+
+
+## Team Member 2- Sandip Thapa
+<img src="images/football.jpg">
+
+**Hobbies**-Football,esports,photography.
+
+
+**Country**- Nepal
+
+
+**Goals**-Work in digital arts industry, open a leading digital art industry back home.
+
+
+**Likes**-Love to play and watch football, travel and do photography, and play esports games.
+
+
+**Status**-Fulltime student of Interactive Media Design(IDP), and working as a customer sales representative.
+
+
+<img src="images/photography.jpg">
+
+**Key Values**-Problem Solver,Team-player,Critical Thinking.
